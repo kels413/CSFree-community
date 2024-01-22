@@ -26,7 +26,7 @@
 
 
 x = 'hi!'
-y = 'hi!k'
+y = 'hi!'
 
 print(x == y)
 print(x is y)
