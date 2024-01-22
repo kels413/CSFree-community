@@ -11,4 +11,5 @@ int main(void)
     if(a == b)
         print("equals")
     else
+        print()
 }
