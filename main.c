@@ -14,8 +14,8 @@ int main(void)
         printf("not equal\n");
 
     
-    printf("%p", &a);
-    printf("%p", &b);
+    printf("%p\n", &a);
+    printf("%p\n", &b);
 
 
     return (0);
