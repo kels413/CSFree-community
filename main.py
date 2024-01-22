@@ -28,14 +28,14 @@
 # x = 'hi!'
 # y = 'hi!'
 
-x = 90
-print(id(x))
-x = 100
-print(id(x))
-x = "kelly"
-y = "kelly"
-print(id(x))
-print(id(y))
+# x = 90
+# print(id(x))
+# x = 100
+# print(id(x))
+# x = "kelly"
+# y = "kelly"
+# print(id(x))
+# print(id(y))
 
 
 # print(x == y)
@@ -62,3 +62,5 @@ print(id(y))
 #     print("yes they are equal")
 # else:
 #     print("they are not equal")
+
+
