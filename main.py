@@ -32,7 +32,7 @@ print(id(x))
 x = 100
 print(id(x))
 x = "kelly"
-y = 30
+y = "kelly"
 print(id(x))
 print(id(y))
 
