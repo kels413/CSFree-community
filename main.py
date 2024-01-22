@@ -32,6 +32,7 @@ print(id(x))
 x = 100
 print(id(x))
 x = "kelly"
+x 
 print(id(x))
 
 
