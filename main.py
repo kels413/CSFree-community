@@ -30,13 +30,13 @@
 x = 90
 print(id(x))
 x = 100
+print(id(x))
 x = "kelly"
 
 # print(x == y)
 # print(x is y)
 
 # print(id(y))
-print(id(x))
 
 
 
