@@ -33,20 +33,20 @@ print(x is y)
 
 
 
-h = 'h' + 'i'
-i = 'hi'
+# h = 'h' + 'i'
+# i = 'hi'
 
-print(h == i)
-print(h is i)
+# print(h == i)
+# print(h is i)
 
-a = 10
-b = 10
+# a = 10
+# b = 10
 
-print(a == b)
-print(a is b)
+# print(a == b)
+# print(a is b)
 
 
-if a == b:
-    print("yes they are equal")
-else:
-    print("they are not equal")
+# if a == b:
+#     print("yes they are equal")
+# else:
+#     print("they are not equal")
