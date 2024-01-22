@@ -9,7 +9,7 @@ int main(void)
 
 
     if(a == b)
-        print("equals")
+        print("equals");
     else
-        print()
+        print("not equal");
 }
