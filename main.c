@@ -12,4 +12,7 @@ int main(void)
         print("equals");
     else
         print("not equal");
+
+    
+    print
 }
