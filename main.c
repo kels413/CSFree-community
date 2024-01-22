@@ -9,13 +9,13 @@ int main(void)
 
 
     if(a == b)
-        print("equals");
+        printf("equals");
     else
-        print("not equal");
+        printff("not equal");
 
     
-    print("%p", &a);
-    print("%p", &b);
+    printf("%p", &a);
+    printf("%p", &b);
 
 
     return (0);
