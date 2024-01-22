@@ -29,7 +29,7 @@
 # y = 'hi!'
 x = 90
 x = 100
-x = ""
+x = "kelly"
 
 # print(x == y)
 # print(x is y)
