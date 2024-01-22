@@ -15,5 +15,5 @@ int main(void)
 
     
     print("%p", &a);
-    print()
+    print("%p")
 }
