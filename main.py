@@ -32,6 +32,7 @@ print(x == y)
 print(x is y)
 
 print(id(x))
+print(id(y))
 
 
 
