@@ -14,5 +14,5 @@ int main(void)
         print("not equal");
 
     
-    print
+    print("%d", )
 }
