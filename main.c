@@ -9,7 +9,7 @@ int main(void)
 
 
     if(a == b)
-        printf("equals");
+        printf("equals\n");
     else
         printf("not equal");
 
