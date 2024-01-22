@@ -8,5 +8,7 @@ int main(void)
     int b = 5;
 
 
-    
+    if(a == b)
+        print("equals")
+    else
 }
