@@ -27,7 +27,7 @@
 
 x = 'hi!'
 y = 'hi!'
-x = 
+x = 90
 
 print(x == y)
 print(x is y)
