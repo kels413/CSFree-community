@@ -65,6 +65,6 @@
 
 
 x = 10
-del x
+del 10
 print(x)
 # print(x)
