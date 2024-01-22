@@ -64,3 +64,5 @@
 #     print("they are not equal")
 
 
+x = 10
+print(x)
