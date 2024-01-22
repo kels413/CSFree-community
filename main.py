@@ -32,6 +32,8 @@ print(id(x))
 x = 100
 print(id(x))
 x = "kelly"
+print(id(x))
+
 
 # print(x == y)
 # print(x is y)
