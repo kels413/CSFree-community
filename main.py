@@ -25,9 +25,10 @@
 # print(a is b)
 
 
-x = 'hi!'
-y = 'hi!'
+# x = 'hi!'
+# y = 'hi!'
 x = 90
+
 
 print(x == y)
 print(x is y)
