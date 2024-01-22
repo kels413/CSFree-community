@@ -28,13 +28,13 @@
 # x = 'hi!'
 # y = 'hi!'
 x = 90
+print(id(x))
 x = 100
 x = "kelly"
 
 # print(x == y)
 # print(x is y)
 
-print(id(x))
 # print(id(y))
 print(id(x))
 
