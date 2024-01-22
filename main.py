@@ -32,4 +32,8 @@ print(x == y)
 
 
 
-y
+h = 'h' + 'i'
+i = 'hi'
+
+print(h == i)
+
