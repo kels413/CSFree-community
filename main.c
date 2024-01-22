@@ -11,7 +11,7 @@ int main(void)
     if(a == b)
         printf("equals\n");
     else
-        printf("not equal");
+        printf("not equal\n");
 
     
     printf("%p", &a);
