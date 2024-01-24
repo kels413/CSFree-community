@@ -14,12 +14,13 @@ bot_message = ["oh dear, you missed the mark!❌ Let me show you how it's done.�
                ]
 user_higher_score = 0
 bot_higher_score = 0
-bot_message_random = random.randint(0, 3)
-bot_messages = bot_message[bot_message_random]
+
 
 user_input = int(input("what's your choice "))
 
 while True:
+    bot_message_random = random.randint(0, 3)
+    bot_messages = bot_message[bot_message_random]
     if user_input != secret_code and bot_choice != secret_code:
         print(bot_messages)
         print("Bot Thinking 🤔...")
@@ -34,7 +35,8 @@ while True:
         time.sleep(1)
         print("Bot Thinking 🤔...")
         time.sleep(1)
-        print(f"🤖Told you I got this man: {bot_choice} 💃🏽")
+        print(f"Bot picked {bot_choice}")
+        print(f"🤖Told you I got this man: 💃🏽")
         print("bot won")
         exit(0)
     else:
