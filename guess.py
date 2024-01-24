@@ -23,7 +23,7 @@ while  True:
             if bot_choice in range(1, 5):
                 print("im not afraid man, keep it rolling")
         elif bot_choice == secret_code:
-            
+            print("")
         else:
             print("you lost")
 
