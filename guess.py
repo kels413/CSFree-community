@@ -34,7 +34,6 @@ while True:
         #     if user_input == secret_code:
         #         print("you won")
         #         user_higher_score += 1
-        #         exit(0)
     elif bot_choice == secret_code:
         print(bot_messages)
         print("Bot Thinking 🤔...")
