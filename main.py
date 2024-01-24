@@ -1,70 +1,25 @@
-# import sys
+# num1 = 10
+# num2 = 15
 
-# # Create an object
-# my_object = "Hello, World!"
+# sum = num1 + num2
 
-# # Get the reference count
-# ref_count = sys.getrefcount(my_object)
-
-# # Print the reference count
-# print(f"Reference count: {ref_count}")
-
-
-# a = 100
-# b = 100
-# c = "kelly"
-# c = 100
-# c = 40
-
-# print(id(a))
-# print(id(b))
-# print(id(c))
-# print(id(c))
-# print(id(c))
-
-# print(a is b)
+# print("value of num1", num1)
+# print("value of num2", num2)
+# print(f"sum is {sum}")
+# average = sum / 0 #error
 
 
-# x = 'hi!'
-# y = 'hi!'
-
-# x = 90
-# print(id(x))
-# x = 100
-# print(id(x))
-# x = "kelly"
-# y = "kelly"
-# print(id(x))
-# print(id(y))
+# print(f"average is {average}")
 
 
-# print(x == y)
-# print(x is y)
+num1 = 10
+num2 = 10
+num1 = 100
 
-# print(id(y))
+print(id(num1))
+print(id(num2))
+print(num1)
 
+print(num2)
 
-
-# h = 'h' + 'i'
-# i = 'hi'
-
-# print(h == i)
-# print(h is i)
-
-# a = 10
-# b = 10
-
-# print(a == b)
-# print(a is b)
-
-
-# if a == b:
-#     print("yes they are equal")
-# else:
-#     print("they are not equal")
-
-
-x = 10
-del x
-print(x)
-# print(x)
+print(num1 == num2)
