@@ -22,10 +22,7 @@ while  True:
             print("user won")
             if bot_choice in range(1, 5):
                 print("im not afraid man, keep it rolling")
-        elif bot_choice == secret_code:
-            print("bot Won")
-  
-            break
+        elif bot_choice == u
         else:
             print("you lost")
 
