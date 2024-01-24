@@ -32,7 +32,6 @@ while True:
         #     print(f"Wrong choice: {bot_choice} 🤖")
         #     user_input = int(input("what's your choice "))
         #     if user_input == secret_code:
-        #         print("you won")
     elif bot_choice == secret_code:
         print(bot_messages)
         print("Bot Thinking 🤔...")
