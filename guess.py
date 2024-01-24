@@ -15,7 +15,6 @@ bot_message = ["oh dear, you missed the mark!âŒ Let me show you how it's done.ğ
 user_higher_score = 0
 bot_higher_score = 0
 
-
 user_input = int(input("what's your choice "))
 
 while True:
