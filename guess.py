@@ -9,7 +9,7 @@ print(secret_code)
 
 bot_message = ["oh dear, you missed the mark!❌ Let me show you how it's done.💯",
                "Nice try, human!🧔 Now, watch📺 and learn.📝",
-               "Oh, almost there 😹",
+               "Oh, almost there 😹, but not quite! Allow me to demonstrate precision. 🏹",
                "A valiant effort😡, but no luck this time😹! Time for the bot to shine.💃🏽"
                ]
 
