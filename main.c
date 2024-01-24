@@ -1,24 +1,17 @@
 #include <stdio.h>
 
+#define CSFree main 
 
 
-int main(void)
+int CSFree(void)
 {
-    int a = 5;
-    int b = 5;
-    a = 10;
+    int num1 = 10;
+    int num2 = 10;
 
+ 
 
-    if(a == b)
-        printf("equals\n");
-    else
-        printf("not equal\n");
+    printf("%p\n", &num1);
 
-    
-    printf("%p\n", &a);
-    printf("%p\n", &b);
-    printf("%p\n", &a);
-
-
-    return (0);
+    printf("%p\n", &num2);
+    return 0;
 }
