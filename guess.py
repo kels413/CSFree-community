@@ -44,8 +44,16 @@ while True:
             print("you won")
             user_higher_score += 1
             break
-    play_again = input("Do you want to play again? (yes/no): ").lower()
-    if play_again != "yes":
+    play_again = input("Do you want to play again? you bot ? 🤖: ")
+    time.sleep(1)
+    print("Bot Thinking 🤔...")
+    time.sleep(1)
+    print("Bot Thinking 🤔...")
+    if bot_choice not in range(1, 5):
+        print("can't play right now")
         break
+    else:
+        print("Never afraid of you man, keep it coming")
+        continue
 
 
