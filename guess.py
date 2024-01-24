@@ -28,8 +28,6 @@ while True:
         time.sleep(1)
         print(f"Wrong choice: {bot_choice} 🤖")
         user_input = int(input("what's your choice "))
-        # if bot_choice != secret_code:
-        #     print(f"Wrong choice: {bot_choice} 🤖")
     elif bot_choice == secret_code:
         print(bot_messages)
         print("Bot Thinking 🤔...")
