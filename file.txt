@@ -1,0 +1,29 @@
+
+
+{
+    "tobi419@gmail.com": {
+     "fullname": "tobi",
+       "username": "tobi419@gmail.com",
+       "email": "tob2323",
+       "password": "1234"
+     },
+
+
+   {
+    "bellomyman": {
+      "fullname": "bello",
+      "username": "bellomyman",
+      "email": "bello23@gmail.com",
+      "password": "243"
+      }
+
+
+}
+
+
+~
+
+please input your username = tobi419
+please input your password =tobi419        @gmail.com"
+
+tobi419        @gmail.com
